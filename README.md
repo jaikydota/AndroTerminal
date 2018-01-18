@@ -1,4 +1,4 @@
-![gif](https://github.com/jaikydota/Android-FaceView/blob/master/Demo/GIF.gif)  
+![png](https://github.com/jaikydota/AndroTerminal/blob/master/introduce/ui.png)  
 
 
 # Android-FaceView
