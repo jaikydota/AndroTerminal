@@ -1,8 +1,8 @@
 ![png](https://github.com/jaikydota/AndroTerminal/blob/master/introduce/ui.png)  
 
 
-# Android-FaceView
-An Android teminal app.<br>
+# AndroTerminal
+An Android teminal app.Click here to install demo: https://github.com/jaikydota/Android-ReplayDialog<br>
 If you need to know about replay dialog information, please click here: https://github.com/jaikydota/Android-ReplayDialog<br>
 
 Chinese blog address: http://blog.csdn.net/jaikydota163/article/details/52098873<br>
