@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroTerminal.iml" filepath="$PROJECT_DIR$/AndroTerminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroTerminal-Lib/AndroTerminal-Lib.iml" filepath="$PROJECT_DIR$/AndroTerminal-Lib/AndroTerminal-Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+    </modules>
+  </component>
+</project>
