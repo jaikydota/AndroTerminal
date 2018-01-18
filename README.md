@@ -2,7 +2,7 @@
 
 
 # AndroTerminal
-An Android teminal app.Click here to install demo: https://github.com/jaikydota/Android-ReplayDialog<br>
+An Android teminal app.Click here to install demo: https://github.com/jaikydota/AndroTerminal/raw/master/introduce/AndroTeminal.apk<br>
 If you need to know about replay dialog information, please click here: https://github.com/jaikydota/Android-ReplayDialog<br>
 
 Chinese blog address: http://blog.csdn.net/jaikydota163/article/details/52098873<br>
